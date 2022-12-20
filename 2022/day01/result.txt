@@ -1,0 +1,5 @@
+Part 1 : 
+Most calories carried by an elf : 75501
+
+Part 2 : 
+Most calories carried by three elfs : 215594

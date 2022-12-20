@@ -1,0 +1,5 @@
+Part 1 : 
+MyTotalScore: 10994
+
+Part 2 : 
+yTotalScore: 12526

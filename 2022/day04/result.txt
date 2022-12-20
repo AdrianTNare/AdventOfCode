@@ -1,0 +1,5 @@
+Part 1 : 
+FullyContainedAssignmentPairs: 571
+
+Part 2 : 
+overlappingPairs: 917

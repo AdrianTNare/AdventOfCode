@@ -1,0 +1,5 @@
+Part 1 : 
+Sum of Priorities:  7848
+
+Part 2 : 
+Sum of Priorities:  2616

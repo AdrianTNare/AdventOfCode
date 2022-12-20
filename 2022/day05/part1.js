@@ -50,4 +50,4 @@ const getTopCrates = (inputList) => {
   return topCrates;
 };
 
-console.log(getTopCrates(stacksAndProcedure));
+console.log("topCrates:", getTopCrates(stacksAndProcedure));
