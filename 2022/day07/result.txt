@@ -1,0 +1,6 @@
+Part 1 :
+Sum of directories with size of  at most  100000 : 1477771,
+
+
+Part 2 :
+Number of characters to be processed: 2851

@@ -1,0 +1,6 @@
+Part 1 :
+Number of characters to be processed: 1794
+
+
+Part 2 :
+Number of characters to be processed: 2851

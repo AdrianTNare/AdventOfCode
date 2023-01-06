@@ -1,0 +1,21 @@
+{
+  "configurations": {
+    "server": {
+      "adapter": "vscode-node",
+      "breakpoints": {
+        "exception": {
+          "all": "N",
+          "uncaught": "N"
+        }
+      },
+      "configuration": {
+        "request": "launch",
+        "type":"node",
+        "protocol": "auto",
+        "stopOnEntry": true,
+        "program": "${workspaceFolder}/part1.js",
+        "console": "integratedTerminal"
+      }
+    }
+  }
+}
